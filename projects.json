@@ -198,5 +198,13 @@
 		"year": "2018_SS",
 		"info": "An Architecture Simulator",
 		"status": "1"
+    },
+    {
+	"title": "CS-Clone",
+	"folder": "CS-Clone-Web-Release",
+	"author": "Lukas Hofwimmer",
+	"year": "2018_SS",
+	"info": "A Counter Strike Clone with de_dust2 as map and 5 enemies to kill",
+	"status": "1"
     }
 ]
